@@ -1,0 +1,14 @@
+{
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none",
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "off",
+  "exclude": [
+    "**/__pycache__",
+    "**/.pytest_cache"
+  ],
+  "include": [
+    "notebooks"
+  ]
+}
